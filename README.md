@@ -2,6 +2,7 @@
 Color image encryption
 
 image_encryption.py to cipher the image
+
 image_decryption.py to decipher the cipherimage
 
 Example 1: cat (1280 x 800)
